@@ -10,7 +10,7 @@ This course is a quick tutorial on Matplotlib, a Python library for drawing 2D a
 
 ## Scenarios
 
-|   Index | Name                                    | Difficulty   | URL                                                                 |
+|   Index | Name                                    | Difficulty   | Practice                                                            |
 |---------|-----------------------------------------|--------------|---------------------------------------------------------------------|
 |       1 | 📖 Your First Matplotlib Lab             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92737'>Start Lab</a> |
 |       2 | 📖 Create a Line Plot With Matplotlib    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71147'>Start Lab</a> |
@@ -18,4 +18,9 @@ This course is a quick tutorial on Matplotlib, a Python library for drawing 2D a
 |       4 | 📖 Image Plotting With Matplotlib        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71149'>Start Lab</a> |
 |       5 | 📖 The Lifecycle of a Plot               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71150'>Start Lab</a> |
 |       6 | 📖 Customizing Matplotlib Visualizations | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71151'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
 

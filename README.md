@@ -1,6 +1,6 @@
 # Quick Start with Matplotlib
 
-![Quick Start with Matplotlib](https://cover-creator.labex.io/quick-start-with-matplotlib.png)
+![Quick Start with Matplotlib](https://cover-creator.appbot.io/quick-start-with-matplotlib.png)
 
 This course is a quick tutorial on Matplotlib, a Python library for drawing 2D and 3D graphics. It is designed to get you started with Matplotlib quickly.
 

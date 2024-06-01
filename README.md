@@ -21,7 +21,7 @@ This course is a quick tutorial on Matplotlib, a Python library for drawing 2D a
 
 ## More
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Data Science Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Data Science Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 

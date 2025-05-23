@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Quick Start with Matplotlib](https://cover-creator.labex.io/quick-start-with-matplotlib.png)](https://labex.io/en/courses/quick-start-with-matplotlib)
+[![Quick Start with Matplotlib](https://cover-creator.labex.io/quick-start-with-matplotlib.png)](https://labex.io/courses/quick-start-with-matplotlib)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/quick-start-with-matplotlib)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-matplotlib)
 
 This course is a quick tutorial on Matplotlib, a Python library for drawing 2D and 3D graphics. It is designed to get you started with Matplotlib quickly.
 
@@ -30,14 +30,14 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                     | Difficulty   | Practice                                                                                                                     |
-|---------|------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Your First Matplotlib Lab             | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/python-your-first-matplotlib-lab-92737'>Start Lab</a>                 |
-|       2 | 📖 Create a Line Plot with Matplotlib    | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/python-create-a-line-plot-with-matplotlib-71147'>Start Lab</a>        |
-|       3 | 📖 Matplotlib Pyplot Interface Tutorial  | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>Start Lab</a>  |
-|       4 | 📖 Image Plotting with Matplotlib        | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>Start Lab</a>        |
-|       5 | 📖 The Lifecycle of a Plot               | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/python-the-lifecycle-of-a-plot-71150'>Start Lab</a>                   |
-|       6 | 📖 Customizing Matplotlib Visualizations | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>Start Lab</a> |
+|   Index | Name                                     | Difficulty   | Practice                                                                                                                  |
+|---------|------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Your First Matplotlib Lab             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-your-first-matplotlib-lab-92737'>Start Lab</a>                 |
+|       2 | 📖 Create a Line Plot with Matplotlib    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-create-a-line-plot-with-matplotlib-71147'>Start Lab</a>        |
+|       3 | 📖 Matplotlib Pyplot Interface Tutorial  | Intermediate | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>Start Lab</a>  |
+|       4 | 📖 Image Plotting with Matplotlib        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>Start Lab</a>        |
+|       5 | 📖 The Lifecycle of a Plot               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-the-lifecycle-of-a-plot-71150'>Start Lab</a>                   |
+|       6 | 📖 Customizing Matplotlib Visualizations | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>Start Lab</a> |
 
 ## More
 

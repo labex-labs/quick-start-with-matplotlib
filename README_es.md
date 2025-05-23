@@ -32,16 +32,16 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                          | Dificultad   | Práctica                                                                                                                               |
 |----------|-------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Tu primer laboratorio de Matplotlib          | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/python-your-first-matplotlib-lab-92737'>Iniciar Laboratorio</a>                 |
-|        2 | 📖 Crear un gráfico de líneas con Matplotlib    | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/python-create-a-line-plot-with-matplotlib-71147'>Iniciar Laboratorio</a>        |
-|        3 | 📖 Tutorial de la interfaz Pyplot de Matplotlib | ★★☆          | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>Iniciar Laboratorio</a>  |
-|        4 | 📖 Trazo de imágenes con Matplotlib             | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>Iniciar Laboratorio</a>        |
-|        5 | 📖 El ciclo de vida de una gráfica              | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/python-the-lifecycle-of-a-plot-71150'>Iniciar Laboratorio</a>                   |
-|        6 | 📖 Personalizar visualizaciones con Matplotlib  | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>Iniciar Laboratorio</a> |
+|        1 | 📖 Tu primer laboratorio de Matplotlib          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/python-your-first-matplotlib-lab-92737'>Iniciar Laboratorio</a>                 |
+|        2 | 📖 Crear un gráfico de líneas con Matplotlib    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/python-create-a-line-plot-with-matplotlib-71147'>Iniciar Laboratorio</a>        |
+|        3 | 📖 Tutorial de la interfaz Pyplot de Matplotlib | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>Iniciar Laboratorio</a>  |
+|        4 | 📖 Trazo de imágenes con Matplotlib             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>Iniciar Laboratorio</a>        |
+|        5 | 📖 El ciclo de vida de una gráfica              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/python-the-lifecycle-of-a-plot-71150'>Iniciar Laboratorio</a>                   |
+|        6 | 📖 Personalizar visualizaciones con Matplotlib  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>Iniciar Laboratorio</a> |
 
 ## Más
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Matplotlib Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Matplotlib Tutoriales Gratuitos](https://github.com/labex-labs/matplotlib-free-tutorials)
 

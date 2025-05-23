@@ -32,16 +32,16 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                     | 난이도   | 연습                                                                                                                         |
 |----------|------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 첫 번째 Matplotlib 랩                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-your-first-matplotlib-lab-92737'>실습 시작</a>                 |
-|        2 | 📖 Create a Line Plot with Matplotlib    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-create-a-line-plot-with-matplotlib-71147'>실습 시작</a>        |
-|        3 | 📖 Matplotlib Pyplot Interface Tutorial  | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>실습 시작</a>  |
-|        4 | 📖 Image Plotting with Matplotlib        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>실습 시작</a>        |
-|        5 | 📖 The Lifecycle of a Plot               | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-the-lifecycle-of-a-plot-71150'>실습 시작</a>                   |
-|        6 | 📖 Customizing Matplotlib Visualizations | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>실습 시작</a> |
+|        1 | 📖 첫 번째 Matplotlib 랩                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-your-first-matplotlib-lab-92737'>실습 시작</a>                 |
+|        2 | 📖 Create a Line Plot with Matplotlib    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-create-a-line-plot-with-matplotlib-71147'>실습 시작</a>        |
+|        3 | 📖 Matplotlib Pyplot Interface Tutorial  | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>실습 시작</a>  |
+|        4 | 📖 Image Plotting with Matplotlib        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>실습 시작</a>        |
+|        5 | 📖 The Lifecycle of a Plot               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-the-lifecycle-of-a-plot-71150'>실습 시작</a>                   |
+|        6 | 📖 Customizing Matplotlib Visualizations | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>실습 시작</a> |
 
 ## 더 보기
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Matplotlib 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Matplotlib 무료 튜토리얼](https://github.com/labex-labs/matplotlib-free-tutorials)
 

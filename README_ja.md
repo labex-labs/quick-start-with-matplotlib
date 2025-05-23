@@ -32,16 +32,16 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                | 難易度   | 練習                                                                                                                          |
 |----------------|-----------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 あなたの最初の Matplotlib の実験                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/python-your-first-matplotlib-lab-92737'>ラボを開始</a>                 |
-|              2 | 📖 Matplotlib を使って線グラフを作成する            | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-a-line-plot-with-matplotlib-71147'>ラボを開始</a>        |
-|              3 | 📖 Matplotlib Pyplot インターフェイスチュートリアル | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>ラボを開始</a>  |
-|              4 | 📖 Matplotlib を使った画像のプロット                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>ラボを開始</a>        |
-|              5 | 📖 グラフのライフサイクル                           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/python-the-lifecycle-of-a-plot-71150'>ラボを開始</a>                   |
-|              6 | 📖 Matplotlib 可視化のカスタマイズ                  | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>ラボを開始</a> |
+|              1 | 📖 あなたの最初の Matplotlib の実験                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-your-first-matplotlib-lab-92737'>ラボを開始</a>                 |
+|              2 | 📖 Matplotlib を使って線グラフを作成する            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-a-line-plot-with-matplotlib-71147'>ラボを開始</a>        |
+|              3 | 📖 Matplotlib Pyplot インターフェイスチュートリアル | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>ラボを開始</a>  |
+|              4 | 📖 Matplotlib を使った画像のプロット                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>ラボを開始</a>        |
+|              5 | 📖 グラフのライフサイクル                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-the-lifecycle-of-a-plot-71150'>ラボを開始</a>                   |
+|              6 | 📖 Matplotlib 可視化のカスタマイズ                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>ラボを開始</a> |
 
 ## その他
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Matplotlib プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Matplotlib 無料チュートリアル](https://github.com/labex-labs/matplotlib-free-tutorials)
 

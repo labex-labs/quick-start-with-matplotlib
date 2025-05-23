@@ -26,22 +26,22 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                          | 难度   | 练习                                                                                                                        |
 |--------|-------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 你的第一个 Matplotlib 实验 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-your-first-matplotlib-lab-92737'>开始实验</a>                 |
-|      2 | 📖 使用 Matplotlib 创建折线图 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-a-line-plot-with-matplotlib-71147'>开始实验</a>        |
-|      3 | 📖 Matplotlib Pyplot 接口教程 | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>开始实验</a>  |
-|      4 | 📖 使用 Matplotlib 绘制图像   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>开始实验</a>        |
-|      5 | 📖 绘图的生命周期             | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-the-lifecycle-of-a-plot-71150'>开始实验</a>                   |
-|      6 | 📖 自定义 Matplotlib 可视化   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>开始实验</a> |
+|      1 | 📖 你的第一个 Matplotlib 实验 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-your-first-matplotlib-lab-92737'>开始实验</a>                 |
+|      2 | 📖 使用 Matplotlib 创建折线图 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-a-line-plot-with-matplotlib-71147'>开始实验</a>        |
+|      3 | 📖 Matplotlib Pyplot 接口教程 | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>开始实验</a>  |
+|      4 | 📖 使用 Matplotlib 绘制图像   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>开始实验</a>        |
+|      5 | 📖 绘图的生命周期             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-the-lifecycle-of-a-plot-71150'>开始实验</a>                   |
+|      6 | 📖 自定义 Matplotlib 可视化   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>开始实验</a> |
 
 ## 更多
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Matplotlib 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Matplotlib 免费教程](https://github.com/labex-labs/matplotlib-free-tutorials)
 

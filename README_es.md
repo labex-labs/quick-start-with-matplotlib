@@ -14,6 +14,17 @@ Este curso es un tutorial rápido sobre Matplotlib, una biblioteca de Python par
 ![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                             | Dificultad   | Práctica                                                                                                                               |
+|----------|----------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🟢 Tu primer laboratorio de Matplotlib          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/python-your-first-matplotlib-lab-92737'>Iniciar Laboratorio</a>                 |
+|        2 | 📖 🟢 Crear un gráfico de líneas con Matplotlib    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/python-create-a-line-plot-with-matplotlib-71147'>Iniciar Laboratorio</a>        |
+|        3 | 📖 🟢 Tutorial de la interfaz Pyplot de Matplotlib | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>Iniciar Laboratorio</a>  |
+|        4 | 📖 🟢 Trazo de imágenes con Matplotlib             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>Iniciar Laboratorio</a>        |
+|        5 | 📖 🟢 El ciclo de vida de una gráfica              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/python-the-lifecycle-of-a-plot-71150'>Iniciar Laboratorio</a>                   |
+|        6 | 📖 🟢 Personalizar visualizaciones con Matplotlib  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>Iniciar Laboratorio</a> |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -24,20 +35,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                          | Dificultad   | Práctica                                                                                                                               |
-|----------|-------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Tu primer laboratorio de Matplotlib          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/python-your-first-matplotlib-lab-92737'>Iniciar Laboratorio</a>                 |
-|        2 | 📖 Crear un gráfico de líneas con Matplotlib    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/python-create-a-line-plot-with-matplotlib-71147'>Iniciar Laboratorio</a>        |
-|        3 | 📖 Tutorial de la interfaz Pyplot de Matplotlib | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>Iniciar Laboratorio</a>  |
-|        4 | 📖 Trazo de imágenes con Matplotlib             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>Iniciar Laboratorio</a>        |
-|        5 | 📖 El ciclo de vida de una gráfica              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/python-the-lifecycle-of-a-plot-71150'>Iniciar Laboratorio</a>                   |
-|        6 | 📖 Personalizar visualizaciones con Matplotlib  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>Iniciar Laboratorio</a> |
 
 ## Más
 

@@ -14,6 +14,17 @@
 ![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
 
 
+## 演習
+
+|   インデックス | 名前                                                   | 難易度   | 練習                                                                                                                          |
+|----------------|--------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 📖 🟢 あなたの最初の Matplotlib の実験                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-your-first-matplotlib-lab-92737'>ラボを開始</a>                 |
+|              2 | 📖 🟢 Matplotlib を使って線グラフを作成する            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-a-line-plot-with-matplotlib-71147'>ラボを開始</a>        |
+|              3 | 📖 🟢 Matplotlib Pyplot インターフェイスチュートリアル | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>ラボを開始</a>  |
+|              4 | 📖 🟢 Matplotlib を使った画像のプロット                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>ラボを開始</a>        |
+|              5 | 📖 🟢 グラフのライフサイクル                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-the-lifecycle-of-a-plot-71150'>ラボを開始</a>                   |
+|              6 | 📖 🟢 Matplotlib 可視化のカスタマイズ                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>ラボを開始</a> |
+
 ## 環境
 
 LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
@@ -24,20 +35,9 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
 - スキルツリーベースのシステムによる構造化されたコンテンツ組織。
 - 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 演習
-
-|   インデックス | 名前                                                | 難易度   | 練習                                                                                                                          |
-|----------------|-----------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 あなたの最初の Matplotlib の実験                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-your-first-matplotlib-lab-92737'>ラボを開始</a>                 |
-|              2 | 📖 Matplotlib を使って線グラフを作成する            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-a-line-plot-with-matplotlib-71147'>ラボを開始</a>        |
-|              3 | 📖 Matplotlib Pyplot インターフェイスチュートリアル | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-pyplot-interface-tutorial-71148'>ラボを開始</a>  |
-|              4 | 📖 Matplotlib を使った画像のプロット                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-image-plotting-with-matplotlib-71149'>ラボを開始</a>        |
-|              5 | 📖 グラフのライフサイクル                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-the-lifecycle-of-a-plot-71150'>ラボを開始</a>                   |
-|              6 | 📖 Matplotlib 可視化のカスタマイズ                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-customizing-matplotlib-visualizations-71151'>ラボを開始</a> |
 
 ## その他
 
